@@ -1,0 +1,25 @@
+#p1{
+width: 25px;
+margin-left: 5px;  
+}
+
+#p2{
+width: 25px;
+
+}
+
+#p3,#p4,#p5{
+    width: 25px;
+    margin-bottom: 4px;
+}
+
+
+.h21, .h22, .h23{
+ text-align: center;
+ font-weight: 900;
+ font-size: larger;
+}
+
+.tab, td{
+border: 2px solid black;
+}
